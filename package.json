@@ -1,0 +1,19 @@
+{
+  "name": "inbox-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Deep",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.6.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.1.3",
+    "solc": "^0.8.10",
+    "web3": "^1.6.0"
+  }
+}

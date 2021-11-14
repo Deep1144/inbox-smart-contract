@@ -1,0 +1,2 @@
+RECOVERY_PHARSE='some weird RECOVERY_PHARSE string'
+PROVIDER_URL='https://rinkeby.infura.io/v3/{{projectId}}'
